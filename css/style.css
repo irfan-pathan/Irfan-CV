@@ -86,11 +86,11 @@ width: 20%;
 }
 .text-big{
 font-size: 50px;
-    color: aliceblue;
+    color: black;
 }
 .text-small{
 font-size: 25px;
-    color: aliceblue;
+    color: black;
 }
 .btn{
     padding: 8px 20px;
@@ -116,7 +116,7 @@ font-size: 25px;
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: black;
+    background-color: gray;
 }
 .sectiontag{
     font-size: 3.8rem;
