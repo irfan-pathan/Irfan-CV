@@ -59,7 +59,7 @@ text-decoration: none;
     background-blend-mode: darken;
 }
 .box-main{
-    background-image: url(/website/images/pexels-photo-3184454.jpeg);
+    background-image: url(../images/pexels-photo-3184454.jpeg);
     height: 100vh;
     display: flex;
     justify-content: center;
